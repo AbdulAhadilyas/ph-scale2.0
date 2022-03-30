@@ -1,0 +1,73 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body {
+  background-color: silver;
+  font-family: Arial, Verdana, sans-serif;
+  color: white;
+}
+.contanier {
+  align-items: center;
+  margin: 50px;
+  margin-left: 40px;
+}
+.contanier .heading h1 {
+  padding: 20px;
+  background-color:lightgray;
+  color: gray;
+}
+.contanier .item {
+  padding-top: 30px;
+}
+.contanier .item p {
+  padding: 7px;
+}
+.item14 {
+  background-color: rgb(0,136,221);
+}
+
+.item13 {
+  background-color: rgb(0,149,226);
+}
+.item12 {
+  background-color: rgb(0,160,230);
+}
+.item11 {
+  background-color: rgb(48,170,233);
+}
+.item10 {
+  background-color:  rgb(84,182,237);
+}
+.item9 {
+  background-color: rgb(114,193,240);
+  
+}
+.item8 {
+  background-color:  rgb(140,202,242);
+}
+.item7 {
+  background-color:  rgb(0,187,136);
+}
+.item6 {
+  background-color: rgb(245,176,204);
+}
+.item5 {
+  background-color:  rgb(246,159,192);
+}
+.item4 {
+  background-color:  rgb(245,140,178);
+}
+.item3 {
+  background-color: rgb(244,123,166);
+}
+.item2 {
+  background-color: rgb(243,106,152);
+}
+.item1 {
+  background-color: rgb(244,90,139);
+}
+.item0 {
+  background-color: rgb(238,62,128);
+}
